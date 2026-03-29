@@ -1,0 +1,661 @@
+fileFormatVersion: 2
+guid: 93739e6809e048342b5c147104228c71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5501087226555064661
+    second: NormalFormCharacter_0
+  - first:
+      213: 4194130272791578226
+    second: NormalFormCharacter_1
+  - first:
+      213: -354473933090621915
+    second: NormalFormCharacter_2
+  - first:
+      213: -3041794629972273191
+    second: NormalFormCharacter_3
+  - first:
+      213: 5708268827970789983
+    second: NormalFormCharacter_4
+  - first:
+      213: 7904534741358187601
+    second: NormalFormCharacter_5
+  - first:
+      213: 9221684723612248309
+    second: NormalFormCharacter_6
+  - first:
+      213: -3559711876817875713
+    second: NormalFormCharacter_7
+  - first:
+      213: -6529839353751996182
+    second: NormalFormCharacter_8
+  - first:
+      213: -6981095378772606532
+    second: NormalFormCharacter_9
+  - first:
+      213: 4105944715013900988
+    second: NormalFormCharacter_10
+  - first:
+      213: -28657369987439242
+    second: NormalFormCharacter_11
+  - first:
+      213: -3793429277387183502
+    second: NormalFormCharacter_12
+  - first:
+      213: -7082619430612376671
+    second: NormalFormCharacter_13
+  - first:
+      213: -5678860916471062894
+    second: NormalFormCharacter_14
+  - first:
+      213: 4321966420434528734
+    second: NormalFormCharacter_15
+  - first:
+      213: 5856799632129688160
+    second: NormalFormCharacter_16
+  - first:
+      213: -8837222940548719948
+    second: NormalFormCharacter_17
+  - first:
+      213: -6430998541133200762
+    second: NormalFormCharacter_18
+  - first:
+      213: 6285684813766191442
+    second: NormalFormCharacter_19
+  - first:
+      213: 2337658561877185708
+    second: NormalFormCharacter_20
+  - first:
+      213: 2659305669967902618
+    second: NormalFormCharacter_21
+  - first:
+      213: 7289762057365876068
+    second: NormalFormCharacter_22
+  - first:
+      213: 2347901720512369178
+    second: NormalFormCharacter_23
+  - first:
+      213: -5950540357810130476
+    second: NormalFormCharacter_24
+  - first:
+      213: 1150106524059596882
+    second: NormalFormCharacter_25
+  - first:
+      213: -7245975538593080569
+    second: NormalFormCharacter_26
+  - first:
+      213: 3878322822589378855
+    second: NormalFormCharacter_27
+  - first:
+      213: -3320932072306180499
+    second: NormalFormCharacter_28
+  - first:
+      213: 9017114235127816680
+    second: NormalFormCharacter_29
+  - first:
+      213: -2460053587866021161
+    second: NormalFormCharacter_30
+  - first:
+      213: 8315784703104697181
+    second: NormalFormCharacter_31
+  - first:
+      213: 8607389476838509132
+    second: NormalFormCharacter_32
+  - first:
+      213: -7673204953006341443
+    second: NormalFormCharacter_33
+  - first:
+      213: 2145680746049564595
+    second: NormalFormCharacter_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NormalFormCharacter_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 601
+        width: 190
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae1fbe305638a3b0800000000000000
+      internalID: -5501087226555064661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalFormCharacter_1
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 600
+        width: 185
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276447bf24b843a30800000000000000
+      internalID: 4194130272791578226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalFormCharacter_2
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 600
+        width: 184
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7dfc076ef59c5d0800000000000000
+      internalID: -3041794629972273191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalFormCharacter_3
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 600
+        width: 180
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5262ad5148d73f40800000000000000
+      internalID: 5708268827970789983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalFormCharacter_4
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 600
+        width: 187
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154936d977c82bd60800000000000000
+      internalID: 7904534741358187601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalFormCharacter_5
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 600
+        width: 191
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8ed85c5610aff70800000000000000
+      internalID: 9221684723612248309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalFormCharacter_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 390
+        width: 193
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc088f78ec599ec0800000000000000
+      internalID: -3559711876817875713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalFormCharacter_7
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 390
+        width: 193
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8fe3f44b95165a0800000000000000
+      internalID: -6529839353751996182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalFormCharacter_10
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 390
+        width: 190
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675a3b916403a9ff0800000000000000
+      internalID: -28657369987439242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalFormCharacter_13
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 170
+        width: 199
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e94e89512a031b0800000000000000
+      internalID: -5678860916471062894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalFormCharacter_14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 170
+        width: 189
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9aa258f85bafb30800000000000000
+      internalID: 4321966420434528734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalFormCharacter_17
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 170
+        width: 193
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba19a3ae80eb5580800000000000000
+      internalID: -8837222940548719948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalFormCharacter_11
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 390
+        width: 193
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259e99ef80d3b3750800000000000000
+      internalID: 6285684813766191442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalFormCharacter_8
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 390
+        width: 189
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a977e9fca60c7e420800000000000000
+      internalID: 2659305669967902618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalFormCharacter_9
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 390
+        width: 189
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46de966e7ff6a2560800000000000000
+      internalID: 7289762057365876068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalFormCharacter_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 170
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a05621027937770800000000000000
+      internalID: 8607389476838509132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalFormCharacter_15
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 170
+        width: 191
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db20a47efbc438590800000000000000
+      internalID: -7673204953006341443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalFormCharacter_16
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 170
+        width: 190
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16e3341493800541b9217168947ceea
+      internalID: 5856799632129688160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 82bb25d000648cf439c21b60441f9a3b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NormalFormCharacter_0: -5501087226555064661
+      NormalFormCharacter_1: 4194130272791578226
+      NormalFormCharacter_10: -28657369987439242
+      NormalFormCharacter_11: 6285684813766191442
+      NormalFormCharacter_12: 8607389476838509132
+      NormalFormCharacter_13: -5678860916471062894
+      NormalFormCharacter_14: 4321966420434528734
+      NormalFormCharacter_15: -7673204953006341443
+      NormalFormCharacter_16: 5856799632129688160
+      NormalFormCharacter_17: -8837222940548719948
+      NormalFormCharacter_18: -6430998541133200762
+      NormalFormCharacter_2: -3041794629972273191
+      NormalFormCharacter_20: 2337658561877185708
+      NormalFormCharacter_23: 2347901720512369178
+      NormalFormCharacter_24: -5950540357810130476
+      NormalFormCharacter_25: 1150106524059596882
+      NormalFormCharacter_26: -7245975538593080569
+      NormalFormCharacter_27: 3878322822589378855
+      NormalFormCharacter_28: -3320932072306180499
+      NormalFormCharacter_29: 9017114235127816680
+      NormalFormCharacter_3: 5708268827970789983
+      NormalFormCharacter_30: -2460053587866021161
+      NormalFormCharacter_31: 8315784703104697181
+      NormalFormCharacter_34: 2145680746049564595
+      NormalFormCharacter_4: 7904534741358187601
+      NormalFormCharacter_5: 9221684723612248309
+      NormalFormCharacter_6: -3559711876817875713
+      NormalFormCharacter_7: -6529839353751996182
+      NormalFormCharacter_8: 2659305669967902618
+      NormalFormCharacter_9: 7289762057365876068
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
