@@ -117,6 +117,9 @@ Durante o desenvolvimento deste projeto, estou aprofundando conhecimentos em:
 * Iteração de gameplay baseada em testes
 
 ---
+## 📸 Demonstração
+
+![Morphix Gameplay](morphix_preview.gif)
 
 ## 🤝 Contato
 
